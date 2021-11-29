@@ -1,5 +1,7 @@
 # datav-project
 
+大屏组件：http://datav.jiaminghi.com/guide/
+
 ## Project setup
 ```
 npm install
